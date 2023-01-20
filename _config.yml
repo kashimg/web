@@ -1,1 +1,3 @@
 markdown: minima
+plugins:
+  - jekyll-seo-tag
