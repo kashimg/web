@@ -1,5 +1,3 @@
-# ビールはお寿司にだって合う
-
 東京で働くかしめぐさんと呼ばれる人間のホームページ。SNSなどは以下に
 
 * [Twitter](https://twitter.com/takidev)
